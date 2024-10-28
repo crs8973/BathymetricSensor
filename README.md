@@ -1,7 +1,7 @@
 # Bathymetric Drift Sensor
 Group Members: Autumn, Grant, Teryn, and Camille
 
-This is the repository for the group working on the drifter with GPS, cellular, and bathymetric sensing. 
+This is the repository for the group working on the drifter with GPS, cellular, and bathymetric sensing. We are using a Boron sensor.
 
 Step 1: Find and fork an existing repository to one team member's GitHub account (done), clone (through GitHub desktop) to your computer (done), assess current status, and divide next steps.
 
